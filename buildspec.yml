@@ -1,0 +1,14 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo Nothing to do yet
+artifacts:
+  files:
+    - index.HTML
+    - favicon.ico
+    - HUMENANSKY-Resume 2017.pdf
+    - styles/main.CSS
+    - images/*
+      
